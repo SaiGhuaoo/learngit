@@ -16,3 +16,5 @@ sfadfasdfsdf
 
 test the statsh
 The value
+
+computer value
