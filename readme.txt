@@ -14,4 +14,8 @@ sfafdadfadsf
 1231231213dfsdf123123
 sfadfasdfsdf
 
+<<<<<<< HEAD
 test the statsh
+=======
+The value
+>>>>>>> 446f08d6163452e90f64185a625ac07b2c5c5acb
